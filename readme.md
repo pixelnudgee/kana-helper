@@ -13,7 +13,7 @@ only tested in chrome for windows and android
 * use num block and arrow keys for typing
     * example: hold 7 and use arrows to choose char
 * use minus (-) on num block to change between hiragana and katakana
-* https://saxbobombs.github.io/kana-helper/dist/
+* https://pixelnudgee.github.io/kana-helper/dist/
 
 ## dev
 
